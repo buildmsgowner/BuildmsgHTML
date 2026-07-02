@@ -1,5 +1,0 @@
-rain outlook
-
-BANGKOK RAIN
-level: moderate
-wind: NWW
